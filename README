@@ -1,0 +1,7 @@
+Repo containing an example of using DeepQ learning to play connect-4. This document follows the explanation given in the following [blog post](X).
+
+Note that I ran this script on a GPU cluster, so for convenience I have included the results of that run in ``` training_history.npy ```, along with the accompanying training plots.   
+
+# Running the script
+
+To run the script you need a python environment, which can be installed with ```environment.yaml``` using conda. This is then followed by installing pytorch following this [link](https://pytorch.org/get-started/locally/).
