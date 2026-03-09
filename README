@@ -1,4 +1,4 @@
-Repo containing an example of using DeepQ learning to play connect-4. This document follows the explanation given in the following [blog post](X).
+Repo containing an example of using DeepQ learning to play connect-4. This document follows the explanation given in the following [blog post](http://127.0.0.1:4000/blog/2026/connect-4/#q-network-transformerdqn).
 
 Note that I ran this script on a GPU cluster, so for convenience I have included the results of that run in ``` training_history.npy ```, along with the accompanying training plots.   
 
